@@ -1,0 +1,75 @@
+.top-container{
+    background-color: #6D67E4;
+    position: relative;
+    padding-top: 100px;
+}
+body{
+    margin: 0;
+    text-align: center;
+    font-family:serif;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'sacramento',cursive;
+    color:#93BFCF;
+    font-size: 400%;
+
+}
+h2{
+    padding-top: 30px;
+    font-family: 'Montserrat',sans-serif;
+    color: #93BFCF;
+}
+h3{
+    font-family: 'Montserrat',sans-serif;
+    color: #93BFCF;
+}
+
+.bottomc{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    
+}
+.topc{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bharath{
+    color: violet;
+}
+.abd{
+    padding-top: 50px;
+    width: 25%;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skill1{
+    width: 25%;
+    float: left;
+    padding-right: 10%;
+}
+.skill2{
+    width: 25%;
+    float: right;
+}
+.intro{
+    width: 30%;
+    text-align: center;
+    margin: auto;
+    line-height: 2;
+}
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 10%;
+    margin: 100px auto;
+}
+.bottom-container{
+    line-height: 5;
+}
